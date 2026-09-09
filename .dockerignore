@@ -5,3 +5,6 @@ Dockerfile
 .vscode
 .gitignore
 full-setup/
+.env
+DB/
+dist/
